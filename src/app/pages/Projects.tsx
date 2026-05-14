@@ -11,7 +11,7 @@ function Links() {
       <a className="block" href="https://github.com/RaposaM" target="_blank">
         <p className="cursor-pointer decoration-solid underline hover:text-gray-300">Github</p>
       </a>
-      <a className="block" href="https://drive.google.com/file/d/1vJoL18C36K93fbqF7secC2yu3LIqfBgj/view?usp=sharing" target="_blank">
+      <a className="block" href="https://drive.google.com/file/d/1nC87Z0VqOXHs6lYS5fdKRM6d6TDfUKPp/view?usp=sharing" target="_blank">
         <p className="cursor-pointer decoration-solid underline hover:text-gray-300">Resume</p>
       </a>
       <a className="block" href="https://www.linkedin.com/in/mitchell-raposa/" target="_blank">
@@ -80,7 +80,7 @@ function Nav() {
       <Link to="/projects" className="decoration-solid underline hover:text-gray-300" style={{ fontVariationSettings: "'wdth' 100" }}>
         PROJECTS
       </Link>
-      <a href="https://drive.google.com/file/d/1vJoL18C36K93fbqF7secC2yu3LIqfBgj/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300" style={{ fontVariationSettings: "'wdth' 100" }}>
+      <a href="https://drive.google.com/file/d/1nC87Z0VqOXHs6lYS5fdKRM6d6TDfUKPp/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300" style={{ fontVariationSettings: "'wdth' 100" }}>
         RESUME
       </a>
     </div>

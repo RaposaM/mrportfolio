@@ -12,7 +12,7 @@ function Links() {
       <a className="block relative shrink-0" href="https://github.com/RaposaM" target="_blank">
         <p className="cursor-pointer decoration-solid leading-[normal] underline">Github</p>
       </a>
-      <a className="block relative shrink-0" href="https://drive.google.com/file/d/1vJoL18C36K93fbqF7secC2yu3LIqfBgj/view?usp=sharing" target="_blank">
+      <a className="block relative shrink-0" href="https://drive.google.com/file/d/1nC87Z0VqOXHs6lYS5fdKRM6d6TDfUKPp/view?usp=sharing" target="_blank">
         <p className="cursor-pointer decoration-solid leading-[normal] underline">Resume</p>
       </a>
       <a className="block relative shrink-0" href="https://www.linkedin.com/in/mitchell-raposa/" target="_blank">

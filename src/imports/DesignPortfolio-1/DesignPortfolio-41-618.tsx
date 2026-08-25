@@ -4,7 +4,7 @@ import imgImage961 from "./7960192135425a345ed312ea1bfc3f730720ace0.png";
 import imgFrame114 from "./d8e9f7adab9241d22039a8b975538326ba03e114.png";
 import imgFrame115 from "./034f2c554cfdfc09f65fa34703773fb8e6ef4ca1.png";
 import imgFrame116 from "./e8fe553e7c66351f159df5e163f2caf9bb7fe3ae.png";
-import imgFrame117 from "/home/owner/Projects/mrportfolio/src/imports/DesignPortfolio/Frame1321321490.png";
+import imgFrame117 from "../DesignPortfolio/Frame1321321490.png";
 
 function Links() {
   return (

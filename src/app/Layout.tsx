@@ -7,7 +7,7 @@ import imgImage961 from "../imports/DesignPortfolio/7960192135425a345ed312ea1bfc
 import imgFrame114 from "../imports/DesignPortfolio/d8e9f7adab9241d22039a8b975538326ba03e114.png";
 import imgFrame115 from "../imports/DesignPortfolio/034f2c554cfdfc09f65fa34703773fb8e6ef4ca1.png";
 import imgFrame116 from "../imports/DesignPortfolio/e8fe553e7c66351f159df5e163f2caf9bb7fe3ae.png";
-import imgFrame117 from "/home/owner/Projects/mrportfolio/src/imports/DesignPortfolio/Frame1321321490.png";
+import imgFrame117 from "../imports/DesignPortfolio/Frame1321321490.png";
 import imgFrame1321321339 from "../imports/DesignPortfolioAboutPage/d2e7787856084f81fea5080a54ebabb2dc148224.png";
 import imgRectangle145 from "../imports/DesignPortfolioAboutPage/f3039712e58e310ff4f4355d2d37057a2b770cfd.png";
 import imgRectangle146 from "../imports/DesignPortfolioAboutPage/1b7655a8fd6a5b1efa12f600dc6d3c562aefcde9.png";

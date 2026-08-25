@@ -5,7 +5,7 @@ import imgImage961 from "../../imports/DesignPortfolio/7960192135425a345ed312ea1
 import imgFrame114 from "../../imports/DesignPortfolio/d8e9f7adab9241d22039a8b975538326ba03e114.png";
 import imgFrame115 from "../../imports/DesignPortfolio/034f2c554cfdfc09f65fa34703773fb8e6ef4ca1.png";
 import imgFrame116 from "../../imports/DesignPortfolio/e8fe553e7c66351f159df5e163f2caf9bb7fe3ae.png";
-import imgFrame117 from "../../imports/DesignPortfolio/c9a288d7c758e855381736f564ad037ca1df0b56.png";
+import imgFrame117 from "/home/owner/Projects/mrportfolio/src/imports/DesignPortfolio/Frame1321321490.png";
 import Hero from "../../imports/Hero-1-1/Hero-224-117";
 import AboutSection from "../../imports/Frame1321321359/Frame1321321359";
 

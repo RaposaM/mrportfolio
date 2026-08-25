@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import imgFrame1321321351 from "../../imports/DesignPortfolioProjectsPage/7107f6377586a0dc82027304be6a6a2184c18d3f.png";
-import imgFrame1321321352 from "../../imports/DesignPortfolioProjectsPage/2f07f2889eb21c8afeab86cf965de76136dca99b.png";
+import imgBizzNestRebrand from "../../imports/DesignPortfolio/Frame1321321490.png";
 import imgFrame1321321353 from "../../imports/DesignPortfolioProjectsPage/68f16bb603e89abe668b82b22f9981f474067565.png";
 import imgFrame1321321354 from "../../imports/DesignPortfolioProjectsPage/091837a1e66e40431196c2a9cdb6d3580ee8df9c.png";
 import imgFrame1321321355 from "../../imports/DesignPortfolioProjectsPage/9c2e48477ac702dfba6b62a9f0e8df59cbc60363.png";
@@ -36,11 +36,11 @@ function ProjectShowcase({ image, title, tags, description }: { image: string; t
   return (
     <div className="bg-[#565656] rounded-[20px] overflow-hidden transition-all duration-300 hover:bg-[#7B316E] hover:translate-y-[-2px] hover:shadow-lg">
       <div className="p-4 md:p-5">
-        <div className="h-[400px] md:h-[558px] rounded-[20px] overflow-hidden mb-4">
+        <div className="h-[400px] md:h-[558px] rounded-[20px] overflow-hidden mb-4 bg-[#2b2b2b]">
           <img
             key={image}
             alt={title}
-            className="w-full h-full object-contain"
+            className="w-full h-full object-cover rounded-[20px]"
             src={image}
           />
         </div>
@@ -134,7 +134,7 @@ export default function Projects() {
           />
 
           <ProjectShowcase
-            image={imgFrame1321321352}
+            image={imgBizzNestRebrand}
             title="BizzNest Rebrand"
             tags={["Web Design", "Branding"]}
             description="BizzNest needed a complete visual overhaul, their existing branding lacked cohesion and didn't reflect the organization's identity. Working within a 3-person team, redesigned the brand from scratch, producing a new logo, comprehensive style guide, brand guidelines, custom assets, and landing pages to establish a consistent and professional identity across all touchpoints."
